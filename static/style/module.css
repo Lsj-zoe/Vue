@@ -1,0 +1,4 @@
+@import url("layout.css");
+/**/
+.home{padding-bottom: 1rem;}
+.home .vux-slider .vux-swiper .vux-swiper-item a .vux-swiper-desc{height: 1rem;}
